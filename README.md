@@ -1,4 +1,4 @@
-# this project just trying and archive what i learn, what i am trying
+# this project just archive what i learn, what i am trying
 
 
 
